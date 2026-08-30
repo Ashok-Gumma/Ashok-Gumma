@@ -1,14 +1,22 @@
-# <a href="https://github.com/Ashok-Gumma"><img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=28&duration=3000&pause=1200&color=38BDF8&multiline=false&width=480&height=40&lines=Ashok+Shankar+Gumma;Full-Stack+Developer;AI+Systems+Engineer;Software+Engineer;Building+Scalable+Products" alt="Ashok Shankar Gumma" align="center" /></a>
+<div align="center">
 
-> **Full-Stack & AI Systems Developer**  
-> 📍 *Markapur, Andhra Pradesh, India* &nbsp;•&nbsp; 🎓 *B.Tech CSE (AI) @ Parul University (2023–2027) • CGPA: 7.47*  
-> 🟢 **Available for Full-Stack & SDE Roles / Internships**
+<a href="https://github.com/Ashok-Gumma"><img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=32&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&multiline=false&width=550&height=50&lines=Ashok+Shankar+Gumma;Full-Stack+Developer;AI+Systems+Engineer;Software+Engineer;Building+Scalable+Products" alt="Ashok Shankar Gumma" /></a>
 
----
+<p align="center">
+  <strong>Full-Stack & AI Systems Developer</strong><br>
+  📍 <em>Markapur, Andhra Pradesh, India</em> &nbsp;•&nbsp; 🎓 <em>B.Tech CSE (AI) @ Parul University (2023–2027) • CGPA: 7.47</em><br>
+  🟢 <strong>Available for Full-Stack & SDE Roles / Internships</strong>
+</p>
 
-### 🌐 Quick Links
+<p align="center">
+  <a href="https://portfolio-gamma-two-luon2pm3wc.vercel.app/">Portfolio</a> &nbsp;•&nbsp;
+  <a href="https://linkedin.com/in/ashok-gumma1">LinkedIn</a> &nbsp;•&nbsp;
+  <a href="https://leetcode.com/u/gummaashok/">LeetCode</a> &nbsp;•&nbsp;
+  <a href="mailto:ashokgumma20@gmail.com">Email</a> &nbsp;•&nbsp;
+  <a href="https://github.com/Ashok-Gumma">GitHub</a>
+</p>
 
-[Portfolio](https://portfolio-gamma-two-luon2pm3wc.vercel.app/) &nbsp;•&nbsp; [LinkedIn](https://linkedin.com/in/ashok-gumma1) &nbsp;•&nbsp; [LeetCode](https://leetcode.com/u/gummaashok/) &nbsp;•&nbsp; [Email](mailto:ashokgumma20@gmail.com) &nbsp;•&nbsp; [GitHub](https://github.com/Ashok-Gumma)
+</div>
 
 ---
 
