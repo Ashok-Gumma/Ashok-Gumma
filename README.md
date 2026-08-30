@@ -1,4 +1,4 @@
-# 🧑‍💻 <a href="https://github.com/Ashok-Gumma"><img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=28&duration=3000&pause=1200&color=38BDF8&multiline=false&width=480&height=40&lines=Ashok+Shankar+Gumma;Full-Stack+Developer;AI+Systems+Engineer;Software+Engineer;Building+Scalable+Products" alt="Ashok Shankar Gumma" align="center" /></a>
+# <a href="https://github.com/Ashok-Gumma"><img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=28&duration=3000&pause=1200&color=38BDF8&multiline=false&width=480&height=40&lines=Ashok+Shankar+Gumma;Full-Stack+Developer;AI+Systems+Engineer;Software+Engineer;Building+Scalable+Products" alt="Ashok Shankar Gumma" align="center" /></a>
 
 > **Full-Stack & AI Systems Developer**  
 > 📍 *Markapur, Andhra Pradesh, India* &nbsp;•&nbsp; 🎓 *B.Tech CSE (AI) @ Parul University (2023–2027) • CGPA: 7.47*  
