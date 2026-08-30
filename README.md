@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/Ashok-Gumma"><img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=32&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&multiline=false&width=550&height=50&lines=Ashok+Shankar+Gumma;Full-Stack+Developer;AI+Systems+Engineer;Software+Engineer;Building+Scalable+Products" alt="Ashok Shankar Gumma" /></a>
+<a href="https://github.com/Ashok-Gumma"><img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=700&size=32&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&multiline=false&width=550&height=50&lines=Ashok+Shankar+Gumma;Full-Stack+Developer;AI+Systems+Engineer;Software+Engineer;Building+Scalable+Products" alt="Ashok Shankar Gumma" /></a>
 
 <p align="center">
   <strong>Full-Stack & AI Systems Developer</strong><br>
